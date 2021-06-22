@@ -54,7 +54,7 @@ Each clock face's electronics are combined onto standalone PCBs, which daisy cha
   <img src="images/pcb_assembled.png"/>
 </p>
 
-These PCBs need precise relative placement to allow them to connect with the shunts, and so a 3D-printed jig allows standoffs to hold them in the right place.
+These PCBs need precise relative placement to allow them to connect with the shunts, and so a 3D-printed jig allows standoffs to hold them in the right place (the case is CNCd as described in [Case/Hands](#physical-casehands))
 
 <p align="center">
   <img src="images/pcb_link.png"/>
@@ -62,10 +62,23 @@ These PCBs need precise relative placement to allow them to connect with the shu
   <img src="images/pcb_array.png"/>
 </p>
 
-
-
-
 ### Physical Case/Hands
+
+The ClockClock 24 has a fairly simple shape, just a solid block with indented clock faces. This can easily be manufactured from MDF with a CNC router, and so after creating a 3D model I had a company cut it for me. It was cheapest to have it done from 3 sheets of thinner MDF and then glue them together. I spray painted it white for the final finish.
+
+<p align="center">
+  <img src="images/case_glue.png"/>
+  <img src="images/case_unpainted.png"/>
+</p>
+
+The hands were 3D-printed from black PLA, which when added to the shafts of the motors give the exact look of the original.
+
+<p align="center">
+  <img src="images/hands_print.png"/>
+  <img src="images/case_hands.png"/>
+</p>
+
+
 
 ### Code
 
