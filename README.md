@@ -60,7 +60,6 @@ Each clock face's electronics are combined onto standalone PCBs, which daisy cha
 
 <p align="center">
   <img src="images/pcb_easyeda.png"/>
-  <img src="images/pcb_assembled.png"/>
 </p>
 
 These PCBs need precise relative placement to allow them to connect with the shunts, and so a 3D-printed jig allows standoffs to hold them in the right place (the case is CNCd as described in [Case/Hands](#physical-casehands))
