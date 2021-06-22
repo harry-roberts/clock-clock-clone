@@ -5,7 +5,7 @@ My attempt to create a copy of the "ClockClock 24" by Humans Since 1982
 1. [Final Replica Spoiler](#final-replica-spoiler)
 1. [Design](#design)
 	1. [Electronics](#electronics)
-	1. [Case/Hands](#physical-casehands)
+	1. [Physical Case/Hands](#physical-casehands)
 	1. [Code](#code)
 
 ## Background
@@ -33,6 +33,15 @@ Below is the final product I created
 </p>
 <p align="center"><em>
 	My ClockClock clone cycling through times 09:25 to 09:27
+</em></p>
+
+<p align="center">
+  <img src="images/clone_1723.jpg"/>
+  <img src="images/clone_transition.jpg"/>
+  <img src="images/clone_1724.jpg"/>
+</p>
+<p align="center"><em>
+	My ClockClock clone mounted on the wall in my house, 17:23 -> 17:24
 </em></p>
 
 ## Design
