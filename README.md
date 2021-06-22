@@ -2,9 +2,11 @@
 My attempt to create a copy of the "ClockClock 24" by Humans Since 1982
 
 1. [Background](#background)
-2. [Final Replica Spoiler](#final-replica-spoiler)
-3. [Electronics](#electronics)
-4. 
+1. [Final Replica Spoiler](#final-replica-spoiler)
+1. [Design](#design)
+	1. [Electronics](#electronics)
+	1. [Case/Hands](#casehands)
+	1. [Code](#code)
 
 ## Background
 Humans Since 1982 are a Sweden based artist studio, established in 2009 by founding artists Bastian Bischoff and Per Emanuelsson. One of their projects named the "ClockClock" caught my eye as a really interesting way of diplaying the time. It uses an array of analog clock faces to create the same kind of image a 7-segment display would. This array of seperate clock faces can then work together to create patterns as transitions between times.
@@ -33,9 +35,11 @@ Below is the final product I created
 	My ClockClock clone cycling through times 09:25 to 09:27
 </em></p>
 
-## Electronics
+## Design
 
-## Case/Hands
+### Electronics
 
-## Code
+### Case/Hands
+
+### Code
 
