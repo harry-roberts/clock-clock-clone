@@ -44,6 +44,11 @@ Below is the final product I created
 	My ClockClock clone mounted on the wall in my house, 17:23 -> 17:24
 </em></p>
 
+Some basic info:
+- Dimensions: 750 x 330 x 45mm
+- Power requirement: 5V, ~1.5A when all motors spinning full speed
+- Parts cost: ~£600 (Total cost incl. R&D  much higher)
+
 ## Design
 
 ### Electronics
