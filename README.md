@@ -79,6 +79,8 @@ The ClockClock 24 has a fairly simple shape, just a solid block with indented cl
   <img src="images/case_unpainted.png"/>
 </p>
 
+The CNC manufature of the case represented a significant cost of this project, and so a follow up project I am working on is to completely 3D print the case, with a design more similar to the ["Clock Clock White"](https://www.humanssince1982.com/the-clock-clock-white) rather than "ClockClock 24".
+
 The hands were 3D-printed from black PLA, which when added to the shafts of the motors give the exact look of the original.
 
 <p align="center">
