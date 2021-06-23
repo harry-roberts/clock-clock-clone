@@ -22,7 +22,7 @@ Humans Since 1982 are a Sweden based artist studio, established in 2009 by found
 	ClockClock cycling through times 09:25 to 09:27
 </em></p>
 
-It is, however, ludicrously expensive - the artists sell them for €5,400 on their website. The engineer in me figured that it surely wouldn't cost anywhere near that to replicate, and would make a cool project as well. This repository details everything that went into creating a near-perfect replica of this product.
+It is, however, ludicrously expensive - the artists sell them for €5,400 on their website. The engineer in me figured that it surely wouldn't cost anywhere near that to replicate, and would make a cool project as well. This readme briefly details everything that went into creating a near-perfect replica of this product.
 
 
 ## Final Replica Spoiler
